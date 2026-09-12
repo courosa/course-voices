@@ -1,0 +1,5 @@
+/data/*
+!/data/.htaccess
+!/data/courses.example.php
+*.zip
+.DS_Store
